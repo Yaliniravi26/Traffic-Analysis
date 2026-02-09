@@ -1,5 +1,5 @@
 # Traffic-Analysis
-Project Overview
+PROJECT OVERVIEW
 This project focuses on traffic data preprocessing and analysis for Nammakal District.
 The aim is to clean raw traffic data and prepare it for machine learning and data analysis tasks.
 
